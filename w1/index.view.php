@@ -22,14 +22,26 @@
             ?>
         </h1>
     </header>
-
-    <ul>
+        <h2>
+            Task C - Basic PHP and Arrays
+        </h2>
+        <ul>
                 <?php
                     //foreach loops through the array and temp assigns the current index to $animal so it can be displayed one at a time
                     foreach ($animals as $animal){
                         echo "<li>$animal</li>";
                     }
                 ?>
-            </ul>
+        </ul>
+        <h2>
+            Task D - Associative Arrays
+        </h2>
+        <ul>
+
+            <?php foreach ($task as $description => $value) : ?>
+                <li><strong><?= $description; ?></strong>: <?= $value; ?>
+                <?php endforeach; ?> 
+        </ul>
+        
 </body>
 </html>
