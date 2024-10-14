@@ -8,7 +8,6 @@
 
     function kgCalc($weight){
         $weightKg = (float)$weight / 2.20462;
-        echo $weightKg;
         return $weightKg;
     }
     function bmiCalc($heightMeters, $weightKg){

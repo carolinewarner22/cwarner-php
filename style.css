@@ -1,0 +1,57 @@
+.container-one{
+    background-color: #DCD6F7;
+    color: #424874;
+    padding: 15px;
+}
+.container-one h1{
+    font-size: 48pt;
+}
+
+.nav{
+    background-color: #424874;
+    padding: 10px;
+}
+
+.btn-secondary {
+    background-color: #424874;
+    border-color: #424874;
+    --bs-btn-font-weight: 600;
+    padding: 10px;
+  }
+  .btn-secondary:hover {
+    background-color: #a6b1e1;
+    border-color: #a6b1e1;
+}
+
+.btn-secondary:active,
+.btn-secondary.show {
+    background-color: #a6b1e1;
+    border-color: #a6b1e1;
+}
+
+.dropdown-toggle:active,
+.dropdown-toggle.show {
+    background-color: #a6b1e1;
+    border-color: #a6b1e1;
+}
+
+.btn-secondary a {
+    text-decoration: none;
+    color: white;
+}
+
+.body{
+    background-color: #F4EEFF;
+    padding-left: 15px;
+    font-size: 18pt;
+}
+.body h2, h3{
+    color: #424874;
+}
+.body a{
+    text-decoration: none;
+    color:#a6b1e1;
+}
+.body a:hover{
+    color:#DCD6F7;
+}
