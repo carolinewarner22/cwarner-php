@@ -26,16 +26,16 @@
                         WEEKS
                     </button>
                     <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="w1/index.php">Week 1</a></li>
-                        <li><a class="dropdown-item" href="w2/lab/index.php">Week 2</a></li>
-                        <li><a class="dropdown-item" href="#">Week 3</a></li>
-                        <li><a class="dropdown-item" href="#">Week 4</a></li>
-                        <li><a class="dropdown-item" href="#">Week 5</a></li>
-                        <li><a class="dropdown-item" href="#">Week 6</a></li>
-                        <li><a class="dropdown-item" href="#">Week 7</a></li>
-                        <li><a class="dropdown-item" href="#">Week 8</a></li>
-                        <li><a class="dropdown-item" href="#">Week 9</a></li>
-                        <li><a class="dropdown-item" href="#">Week 10</a></li>
+                        <li><a class="dropdown-item" href="w1/index.php" target="_blank">Week 1</a></li>
+                        <li><a class="dropdown-item" href="w2/lab/index.php" target="_blank">Week 2</a></li>
+                        <li><a class="dropdown-item" href="w3/lab/atm.php" target="_blank">Week 3</a></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Week 4</a></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Week 5</a></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Week 6</a></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Week 7</a></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Week 8</a></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Week 9</a></li>
+                        <li><a class="dropdown-item" href="#" target="_blank">Week 10</a></li>
                     </ul>
 
                 </div>
